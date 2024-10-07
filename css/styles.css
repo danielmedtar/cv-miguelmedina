@@ -208,6 +208,7 @@ h1 {
   margin-top: 0;
   color: #ffffff;
   text-align: center;
+  padding: 0 2rem;
 }
 
 @media (min-width: 768px) {
@@ -308,6 +309,11 @@ button a:hover {
   width: 60px;
 }
 
+.banner img.img-infor {
+  width: 100px;
+  height: 100px;
+}
+
 @media (min-width: 768px) {
   .banner img {
     width: 150px;
@@ -316,6 +322,11 @@ button a:hover {
 
   .banner img.database {
     width: 70px;
+  }
+
+  .banner img.img-infor {
+    width: 120px;
+    height: 120px;
   }
 }
 
@@ -428,4 +439,6 @@ footer p {
 }
 footer a {
   color: #ffffff;
+  font-weight: bold;
+  text-decoration: underline;
 }
