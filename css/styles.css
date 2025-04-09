@@ -309,7 +309,7 @@ button a:hover {
   width: 60px;
 }
 
-.banner img.img-infor {
+.banner img.img-cuadrada {
   width: 100px;
   height: 100px;
 }
@@ -324,7 +324,7 @@ button a:hover {
     width: 70px;
   }
 
-  .banner img.img-infor {
+  .banner img.img-cuadrada {
     width: 120px;
     height: 120px;
   }
